@@ -1,0 +1,1039 @@
+
+.lbadya{
+    
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    height: 100px;
+   margin-left: 220px;
+  
+    }
+
+.lbadya ul li{
+    display: inline;
+  
+padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+  
+}
+.lbadya ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+.lbadya ul li a:hover{
+  
+    color: #A8D741;
+}
+.lbadya ul li button{
+   
+    border-radius: 20px;
+  background-color: #A8D741;
+}
+.f{
+    padding-left: 10px;
+}
+.tani{
+    width: 60%;
+    height: 300px;
+    border: 1px solid;
+    text-align: center;
+    border-radius: 20px;
+    margin: auto;
+    background-color: #A8D741;
+    font-family: verdana;
+    padding-top: 20px;
+}
+.tani button{
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+}
+.tani2 a{
+    color: black;
+    padding-top: 60px;
+}
+.tani2{
+    margin-top: 10px;
+}
+hr{
+    margin-top: 80px;
+}
+#er{
+    color: #A8D741;
+ font-size: 60px;
+ padding-top: 10px;
+ 
+}
+.talet{
+    display: flex;
+    margin-left: 300px;
+    height: 200px;
+}
+.m1{
+    width: 20%;
+    
+      display: flex;
+    height: 70px;
+   
+}
+.m11{
+    padding-left: 10px;
+}
+.m2{
+    width: 20%;
+    
+      display: flex;
+    height: 70px;
+}
+.m3{
+    width: 20%;
+    
+      display: flex;
+    height: 70px;
+}
+.m4{
+    width: 20%;
+    
+      display: flex;
+    height: 70px;
+}
+h5{
+    margin-left: 290px;
+    font-size: 30px;
+}
+.site2{
+    width: 60%;
+    height: 500px;
+    border: 1px solid;
+    margin: auto;
+    background-color: black;
+    
+    
+}
+.site2 h3{
+    color: white;
+    padding-left: 10px;
+}
+.part1{
+    width: 40%;
+    height: 420px;
+    
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.imga{
+    width: 80%;
+    height: 250px;
+    
+    border-radius: 60px;
+   margin: auto;
+   margin-top: 20px;
+  background-image: url(images.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.tit{
+    font-family: cover;
+ padding-left: 50px;
+}
+.but{
+   display: flex;
+    justify-content: space-between;
+    
+}
+button{
+    border-radius: 20px;
+   margin-left: 45px;
+   margin-right: 45px;
+}
+.lm{
+    background-color: #A8D741;
+}
+.part2{
+    width: 40%;
+    height: 420px;
+    
+    background-color: white;
+    margin-left: 20px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.bg{
+    display: flex;
+    justify-content: space-around;
+}
+.etape1{
+    width: 30%;
+    height: 200px;
+    
+    margin: auto;
+    text-align: center;
+}
+.etape2{
+    width: 45%;
+    height: 300px;
+    
+    border-radius: 10px;
+    margin: auto;
+    background-color: ghostwhite;
+    display: flex;
+}
+.t1{
+    width: 30%;
+    height: 300px;
+    border-radius: 10px 0px 0px 10px;
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.t2{
+    width: 70%;
+    height: 300px;
+    display: flex;
+  
+}
+
+.t3{
+    width: 50%;
+    height: 213px;
+   
+  margin: auto;
+   
+}
+.t4{
+    width: 35%;
+    height: 213px;
+   
+   text-align: center;
+   margin: auto;
+}
+.ln{
+    background-color: #A8D741;
+    width: 60%;
+}
+.etape3{
+    width: 45%;
+    height: 300px;
+    
+    border-radius: 20px;
+   margin-top: 30px;
+    background-color: ghostwhite;
+    display: flex;
+   margin-left: 400px;
+}
+.t11{
+    width: 30%;
+    height: 300px;
+    border-radius: 10px 0px 0px 10px;
+    background-image: url(giant-adidas-shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.part3{
+    
+    width:40% ;
+    height:200px;
+    margin: auto;
+    display: flex;
+    padding-top: 100px;
+}
+.part31{
+    width: 30%;
+    height: 200px;
+   
+}
+.part32{
+    width: 70%;
+    height: 130px;
+    border-left: 1px solid;
+    padding-left: 20px;
+}
+.part4{
+    width: 60%;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    border-radius: 10px;
+    background-color: #A8D741;
+
+}
+.part41{
+    width: 30%;
+    border: 1px solid;
+    height:250px ;margin-left: 20px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
+.part42{
+    width: 100% ;
+    height: 130px;
+    
+    background-image: url(giant-adidas-shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.part43{
+    width: 80% ;
+    height: 60px;
+    border-bottom: 1px solid;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.p1{
+    padding-left: 20px;
+}
+
+.part5{
+    width:30%;
+    border: 1px solid;
+    height:250px ;
+    margin-left: 20px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
+.part6{
+    width:30%;
+    border: 1px solid;
+    height:250px ;
+    margin-left: 20px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
+.part51{
+    width: 100% ;
+    height: 130px;
+    
+    background-image: url(giant-adidas-shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.part52{
+    width: 80% ;
+    height: 60px;
+    border-bottom: 1px solid;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.part61{
+    width: 100% ;
+    height: 130px;
+    
+    background-image: url(giant-adidas-shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.part62{
+    width: 80% ;
+    height: 60px;
+    border-bottom: 1px solid;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.etape4{
+    width: 100%;
+    height: 400px;
+    border: 1px solid;
+    background-color: #A8D741;
+}
+.jk{
+    color: white;
+    text-align: center;
+}
+.etape41{
+    width: 30%;
+    height:300px ;
+    
+    border-radius: 10px;
+    background-image: url(images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}
+#font{
+    color: #A8D741;
+    font-size: 40px;
+    padding-left: 190px;
+    padding-top: 130px;
+}
+.hj{
+    text-align: center;
+}
+.etape5{
+    width: 20%;
+    height: 200px;
+    border: 1px solid;
+    margin-left: 8px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+    background-color: gainsboro;
+}
+.parti7{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+#ml{
+    font-size: 40px;
+}
+.bo{
+    background-color: #A8D741;
+}
+.part8{
+    width: 60%;
+    height: 400px;
+    border: 1px solid black;
+    margin: auto;
+    display: flex;
+    border-radius: 10px;
+    background-color: #A8D741;
+
+}
+.part81{
+    width: 30%;
+    border: 1px solid;
+    height:350px ;
+    margin-left: 20px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
+.part82{
+    width: 100% ;
+    height: 170px;
+    
+    background-image: url(giant-adidas-shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.part83{
+    width: 80% ;
+    height: 60px;
+    border-bottom: 1px solid;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.p1{
+    padding-left: 20px;
+}
+
+
+.boot{
+    
+    text-align: center;
+   padding-left: 20px;
+   padding-right: 20px;
+   background-color: #A8D741;
+   height: 34px;
+}
+.part9{
+    width: 30%;
+    border: 1px solid;
+    height:350px ;
+    margin-left: 20px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
+.part91{
+    width: 100% ;
+    height: 170px;
+    
+    background-image: url(giant-adidas-shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.part92{
+    width: 80% ;
+    height: 60px;
+    border-bottom: 1px solid;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.part99{
+    width: 30%;
+    border: 1px solid;
+    height:350px ;
+    margin-left: 20px;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: white;
+}
+.part991{
+    width: 100% ;
+    height: 170px;
+    
+    background-image: url(giant-adidas-shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.part992{
+    width: 80% ;
+    height: 60px;
+    border-bottom: 1px solid;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.titre1{
+
+    width: 40%;
+     height: 100px;
+     margin-left: 290px;
+}
+.etape6{
+    background-color: gainsboro;
+    width: 50%;
+    height: 350px;
+    border-radius: 10px;
+    border: 1px solid;
+    margin: auto;
+    display: flex;
+}
+.etape61{
+    width: 40%;
+    height: 250px;
+    
+    margin-top: 50px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+.etape62{
+    width: 50%;
+    height: 300px;
+    
+    margin-top: 25px;
+    border-radius: 10px;
+    background-image: url(giant-adidas-shoes.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 20px;
+}
+.boot1{
+    
+    text-align: center;
+   background-color: #A8D741;
+   height: 34px;
+}
+.titre2{
+    text-align: center;
+   padding-top: 50px;
+}
+.titre3{
+    text-align: center;
+   
+}
+.etape7{
+    width: 50%;
+    height: 240px;
+    
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+}
+.etape71{
+    width: 40%;
+    height: 240px;
+    
+    border-radius: 10px;
+    margin-left: 60px;
+    background-color: gainsboro;
+    text-align: center;
+}
+.etape72{
+    width: 40%;
+    height: 240px;
+   
+    border-radius: 10px;
+    margin-left: 10px;
+    text-align: center;
+    background-color: gainsboro;
+}
+#ico{
+    font-size: 50px;
+    padding-top: 60px;
+}
+.lp{
+    color: gray;
+}
+.message{
+    border: 1px solid;
+    width: 30%;
+    height: 230px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #A8D741;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.l1{
+    width: 200px;
+    height: 20px;
+
+}
+.l2{
+    width: 400px;
+    height: 20px;
+    margin-top: 10px; 
+}
+.l3{
+    width: 400px;
+    height: 90px;
+    margin-top: 10px; 
+}
+.l4{
+    width: 100px;
+    height: 25px;
+    margin-top: 10px; 
+    border-radius: 10px;
+    background-color: #A8D741;
+    margin-left: 150px;
+}
+.maps{
+    width: 100%;
+    height: 300px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.lakhar{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+   padding-top: 10px;
+}
+/*pour mobile*/
+@media only screen and (max-width: 600px) {
+    .lbadya{
+        width: 50%;
+        height: 100px;
+        padding-right: 20px;
+        display: inline;
+        
+    }
+    .lbadya h2{
+        text-align: center;
+    }
+    #zou{
+        padding-left: 40px;
+        padding-top: 15px;
+
+    }
+    .lbadya ul li button{
+       margin-top: 20px;
+       margin-left: 120px;
+    }
+    #tou{
+       
+    }
+    .tani{
+        margin-left: 100px;
+    }
+    .ti{
+        width: 50%;
+        height: 80px;
+       
+        
+    }
+    .ti h5{
+       margin-left: 20px;
+       padding-left: 20px;
+    }
+    .talet{
+        width: 100%;
+        height: 100px;
+        
+        margin-left: 15px;
+    }
+    .talet .m1{
+        margin-top: 10px;
+        width: 70%;
+        height: 90px;
+       
+    margin-right: 30px;
+        display: flex;
+      height: 70px;
+    }
+    .talet .m1 #er{
+        font-size: 20px;
+    }
+    .talet .m1 .m11{
+        font-size: 10px;
+    }
+    .talet .m2{
+        width: 70%;
+        height: 90px;
+        margin-top: 10px;
+        
+    margin-right: 30px;
+        display: flex;
+      height: 70px;
+    }
+    .talet .m2 #er{
+        font-size: 20px;
+    }
+    .talet .m2 .m11{
+        font-size: 10px;
+    }
+    .talet .m3{
+        width: 70%;
+        height: 90px;
+        margin-top: 10px;
+       
+    margin-right: 30px;
+        display: flex;
+      height: 70px;
+    }
+    .talet .m3 #er{
+        font-size: 20px;
+    }
+    .talet .m3 .m11{
+        font-size: 10px;
+    }
+    .talet .m4{
+        width: 70%;
+        height: 90px;
+        margin-top: 10px;
+       
+    margin-right: 30px;
+        display: flex;
+      height: 70px;
+    }
+    .talet .m4 #er{
+        font-size: 20px;
+    }
+    .talet .m4 .m11{
+        font-size: 10px;
+    }
+     .site2{
+        width: 100%;
+       height: 800px;
+       border: 1px solid;
+       margin-left: 1px;
+     }
+     .part1{
+        height: 700px;
+     }
+     .part2{
+        height: 700px;
+     }
+     .but{
+        width: 40%;
+        display: block;
+     }
+     .but .lm{
+        width: 60%;
+     }
+          .etape1{
+            width: 100%;
+            height:100px ;
+          }   
+          .etape2{
+            width: 90%;
+            height: 350px;
+            border-radius: 10px;
+            margin-top: 50px;
+            background-color: ghostwhite;
+            display: flex;
+            margin-left: 20px;
+          }
+          .t1{
+            width: 50%;
+            height: 350px;
+          }
+          .t2{
+            width: 70%;
+            height: 350px;
+           
+           
+          }
+          .t3{
+            height: 350px;
+            width: 50%;
+           
+            text-align: center;
+        }
+        .t4{
+            height: 350px;
+            width: 50%;
+            
+            text-align: center;
+            
+        }
+
+    .ln{
+        
+        margin: auto;
+    }
+    .etape3{
+        width: 90%;
+        height: 350px;
+        border-radius: 10px;
+        margin-top: 50px;
+        background-color: ghostwhite;
+        display: flex;
+        margin-left: 20px;
+      }
+      .t11{
+        width: 50%;
+        height: 350px;
+      }
+      .t2{
+        width: 70%;
+        height: 350px;
+       
+       
+      }
+      .t3{
+        height: 350px;
+        width: 50%;
+       
+        text-align: center;
+    }
+    .t4{
+        height: 350px;
+        width: 50%;
+        
+        text-align: center;
+        
+    }
+    .part3{
+        width: 100%;
+    }
+    .part4{
+        width: 98%;
+        height: 300px;
+    }
+    .part41{
+        margin-left: 12px;
+        height: 250px;
+    }
+    .p11{
+        padding-top: 10px;
+    }
+    .p1{
+        padding-top: 10px;
+    }
+    .part5{
+       margin-left: 5px;
+        height: 250px;
+    }
+    .part6{
+        margin-left: 5px;
+         height: 250px;
+     }
+     .etape4{
+        width: 98%;
+        height: 300px;
+     }
+     .etape41{
+        width: 50%;
+        height: 200px;
+     }
+     #font{
+        padding-left: 80px;
+        padding-top: 80px;
+     }
+     .parti7{
+        margin-left: 0px;
+        left: 0;
+     }
+     .etape5{
+        width: 40%;
+     }
+     .titre1{
+        margin-left: 120px;
+        text-align: center;
+     }
+     .part8{
+        width: 100%;
+     }
+     .part81{
+        margin-left: 12px;
+       
+     }
+     .part9{
+        margin-left: 5px;
+       
+     }
+     .part99{
+        margin-left: 5px;
+       
+     }
+     .part83 p{
+        padding-top: 10px;
+     }
+     .part92 p{
+        padding-top: 10px;
+     }
+     .part992 p{
+        padding-top: 10px;
+     }
+     .etape6{
+        width: 100%;
+        height: 400px;
+     }
+     .etape7{
+        width: 100%;
+        margin-left: 10px;
+     }
+     .etape71{
+        margin-left: 30px;
+     }
+     .message{
+        width:90%;
+        height: 250px;
+     }
+     .l2{
+        width: 300px;
+     }
+     .l3{
+        width: 300px;
+     }
+     .l4{
+        margin-left: 120px;
+     }
+}
+
+@media only screen and (min-width: 701px) and (max-width: 768px) {
+    .lbadya{
+        width: 50%;
+        height: 100px;
+        padding-right: 20px;
+        display: inline;
+    }
+    .lbadya h2{
+
+        text-align: center;
+        
+     }
+    #zou{
+        padding-left: 40px;
+        padding-top: 15px;
+
+    }
+    .lbadya ul li button{
+       margin-top: 20px;
+       margin-left: 260px;
+    }
+    .tani{
+        margin-left: 160px;
+    }
+    .talet{
+      width: 100%;
+      margin-left: 80px;
+    }
+    .site2{
+        width: 90%;
+        margin-left: 50px;
+        height: 600px;
+    }
+    .part1{
+        height: 500px;
+    }
+    .part2{
+        height: 500px;
+    }
+    .tit{
+        padding-left: 10px;
+    }
+    .but button{
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 20px;
+    }
+    .part2 button{
+           margin-left: 1px;
+           margin-right: 1px;
+    }
+    .etape1{
+        width: 90%;
+        height: 150px;
+    }
+    .etape2{
+        width: 80%;
+        margin-left: 80px;
+    }
+    .etape3{
+        width: 80%;
+        margin-left: 80px;
+    }
+    .part3{
+        width: 80%;
+        margin-left: 90px;
+    }
+    .part4{
+        width: 93%;
+        margin-left: 60px;
+    }
+    .part41{
+        margin-left: 10px;
+    }
+    .etape4{
+        margin-left: 30px;
+    }
+    .lml{
+        margin-left: 30px;
+        width: 100%;
+    }
+    .etape41{
+        width: 60%;
+    }
+    #font{
+        padding-top: 120px;
+    }
+    .parti7{
+        margin-left: 60px;
+    }
+    .etape5{
+        width: 100%;
+    }
+    .titre1{
+      width: 100%;
+      margin-left: 0;
+      text-align: center;
+    }
+    .part8{
+        width: 100%;
+        margin-left: 30px;
+    }
+    .part81{
+        margin-left: 10px;
+    }
+    .etape6{
+        width: 100%;
+        margin-left: 30px;
+    }
+    .etape7{
+        width: 100%;
+        margin-left: 30px;
+    }
+    .message{
+        width: 60%;
+        height: 250px;
+        margin-left: 150px;
+    }
+    .maps{
+        width: 100%;
+        margin-left: 30px;
+    }
+    .lakhar{
+        width: 100%;
+        margin-left: 30px;
+    }
+}
